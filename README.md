@@ -1,6 +1,5 @@
 # How to Integrate Other UI Components Inside the React Tab Component
 
-**Repository Description**  
 This repository contains a quick‑start React sample that demonstrates how to integrate other Syncfusion React UI components inside the Syncfusion React Tab component using templates.
 
 The sample illustrates how individual tab items can host rich UI components such as Charts, Calendar, and DropDownList, enabling complex layouts and component composition within tab panels.
